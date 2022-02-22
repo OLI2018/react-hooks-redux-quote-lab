@@ -4,3 +4,5 @@ import quotesReducer from "./features/quotes/quotesSlice";
 export default combineReducers({
   quotes: quotesReducer,
 });
+
+
